@@ -25,3 +25,4 @@ def test_division_par_zero():
 
 def test_puissance():
     assert puissance(2, 3) == 8
+    
