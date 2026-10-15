@@ -52,8 +52,4 @@ jobs:
           name: calculatrice-paquet
           path: dist/
       - run: ls -l dist/
-<<<<<<< HEAD
       - run: echo "Application déployée avec succès!"
-=======
-      - run: echo "Application déployée avec succès!"
->>>>>>> fccc637038d0bc5167c75675be080d8eb0cf2218
